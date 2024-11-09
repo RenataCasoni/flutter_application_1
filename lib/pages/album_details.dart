@@ -8,6 +8,7 @@ class AlbumDetailsPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final tracks = List<String>.from(album['tracks'] ?? []); // Garante que tracks não é nulo e é uma lista de strings
+    print('Tracks recebidos na página de detalhes: $tracks'); // Adiciona log para depuração
     return Scaffold(
       appBar: AppBar(
         title: Text(album['name']),

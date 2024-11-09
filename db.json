@@ -1,298 +1,361 @@
 {
   "albums": [
     {
-      "id": "9d8c",
-      "name": "Numanice #3 (Ao Vivo)",
-      "artist": "LUDMILLA",
-      "cover": "https://e-cdns-images.dzcdn.net/images/cover/cda49ff0e8f8d8d612d1865f735542d6/500x500-000000-80-0-0.jpg",
-      "year": "2024"
-    },
-    {
-      "id": "21a5",
+      "id": "65e9",
       "name": "COWBOY CARTER",
       "artist": "Beyoncé",
       "cover": "https://e-cdns-images.dzcdn.net/images/cover/e4a77ce7d6781682afb716d21c0a6e3b/500x500-000000-80-0-0.jpg",
-      "year": "2024"
+      "year": "2024",
+      "tracks": [
+        "AMERIICAN REQUIEM",
+        "BLACKBIIRD",
+        "16 CARRIAGES",
+        "PROTECTOR",
+        "MY ROSE",
+        "SMOKE HOUR ★ WILLIE NELSON",
+        "TEXAS HOLD 'EM",
+        "BODYGUARD",
+        "DOLLY P",
+        "JOLENE",
+        "DAUGHTER",
+        "SPAGHETTII",
+        "ALLIIGATOR TEARS",
+        "SMOKE HOUR II",
+        "JUST FOR FUN",
+        "II MOST WANTED",
+        "LEVII'S JEANS",
+        "FLAMENCO",
+        "THE LINDA MARTELL SHOW",
+        "YA YA",
+        "OH LOUISIANA",
+        "DESERT EAGLE",
+        "RIIVERDANCE",
+        "II HANDS II HEAVEN",
+        "TYRANT"
+      ]
     },
     {
-      "id": "93a2",
-      "name": "Sexto Sentido (feat. Bad Bunny)",
-      "artist": "Gigolo Y La Exce",
-      "cover": "https://e-cdns-images.dzcdn.net/images/cover/e45f2fab36a16fc7a8de4003086f3ffe/500x500-000000-80-0-0.jpg",
-      "year": "2017"
+      "id": "bb6b",
+      "name": "Numanice #3 (Ao Vivo)",
+      "artist": "LUDMILLA",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/cda49ff0e8f8d8d612d1865f735542d6/500x500-000000-80-0-0.jpg",
+      "year": "2024",
+      "tracks": [
+        "Maliciosa (Ao Vivo)",
+        "Você Não Sabe o Que é Amor (Ao Vivo)",
+        "Pique Djavan (Ao Vivo)",
+        "Destilado (Ao Vivo)",
+        "Se Não Chorar com Pagode (Ao Vivo)",
+        "1% (Ao Vivo)",
+        "A Preta Venceu (Ao Vivo)",
+        "Falta de Mim (Ao Vivo)",
+        "Baile Charme (Ao Vivo)",
+        "Saudade da Gente (Ao Vivo)",
+        "Diz pra Mim / Preciso Desabafar (Ao Vivo)",
+        "26 de Dezembro (Ao Vivo)",
+        "Era Tão Bom (So Sick) (Ao Vivo)",
+        "Sim ou Não (Ao Vivo)",
+        "Espelho (Ao Vivo)",
+        "Raio X (Ao Vivo)",
+        "Clichê / Cedo ou Tarde (Ao Vivo)",
+        "Ela (Ao Vivo)"
+      ]
     },
     {
-      "id": "ba31",
-      "name": "Terapia 1000%",
-      "artist": "Henry Freitas",
-      "cover": "https://e-cdns-images.dzcdn.net/images/cover/1e5a21392df2399400ee68b182831730/500x500-000000-80-0-0.jpg",
-      "year": "2023"
-    },
-    {
-      "id": "9ddd",
-      "name": "Baile da Dona Onça",
-      "artist": "Mac Júlia",
-      "cover": "https://e-cdns-images.dzcdn.net/images/cover/fe6a2bddbf0506cb3917956efd3c4ced/500x500-000000-80-0-0.jpg",
-      "year": "2024"
-    },
-    {
-      "id": "c8ac",
+      "id": "debf",
       "name": "UM Quebrada Inteligente",
       "artist": "Kyan",
       "cover": "https://e-cdns-images.dzcdn.net/images/cover/9be822d02bf460a3c94f8340db1604f1/500x500-000000-80-0-0.jpg",
-      "year": "2023"
+      "year": "2023",
+      "tracks": [
+        "tipo, sonho de consumo!",
+        "total 90!",
+        "brinks!",
+        "um quebrada inteligente!",
+        "tipo, fila indiana!",
+        "gucci con tacchini!",
+        "Fantástico Mundo da Oakley (Bonus Track)"
+      ]
     },
     {
-      "id": "1a5f",
+      "id": "942b",
+      "name": "Piña Colada",
+      "artist": "LUDMILLA",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/f4d0d16c6dea07c561a4e554cac64658/500x500-000000-80-0-0.jpg",
+      "year": "2024",
+      "tracks": [
+        "Piña Colada"
+      ]
+    },
+    {
+      "id": "24c3",
+      "name": "Sexto Sentido (feat. Bad Bunny)",
+      "artist": "Gigolo Y La Exce",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/e45f2fab36a16fc7a8de4003086f3ffe/500x500-000000-80-0-0.jpg",
+      "year": "2017",
+      "tracks": [
+        "Sexto Sentido (feat. Bad Bunny)"
+      ]
+    },
+    {
+      "id": "9441",
       "name": "Batidão Tropical Vol. 2",
       "artist": "Pabllo Vittar",
       "cover": "https://e-cdns-images.dzcdn.net/images/cover/2a61b41154e741c71ebfcbb148902a4d/500x500-000000-80-0-0.jpg",
-      "year": "2024"
+      "year": "2024",
+      "tracks": [
+        "Pra Te Esquecer",
+        "Idiota",
+        "Pede Pra Eu Ficar (Listen To Your Heart)",
+        "Rubi",
+        "São Amores",
+        "Me Usa",
+        "Não Vou Te Deixar (I Don't Want to Get Hurt)",
+        "Hoje A Noite (Alone)",
+        "Falta Coragem",
+        "Ai Que Calor",
+        "Nas Ondas do Rádio",
+        "Ai Ai Ai Mega Príncipe",
+        "Não Desligue o Telefone",
+        "Planeta de Cores (Ascolta Il Tuo Cuore)"
+      ]
     }
   ],
   "songs": [
     {
-      "id": "b644",
-      "title": "AMERIICAN REQUIEM"
-    },
-    {
-      "id": "05d8",
+      "id": "b357",
       "title": "BLACKBIIRD"
     },
     {
-      "id": "fbc1",
+      "id": "75fc",
       "title": "16 CARRIAGES"
     },
     {
-      "id": "4adb",
+      "id": "6cf4",
       "title": "PROTECTOR"
     },
     {
-      "id": "51da",
-      "title": "MY ROSE"
-    },
-    {
-      "id": "36f4",
+      "id": "1e56",
       "title": "SMOKE HOUR ★ WILLIE NELSON"
     },
     {
-      "id": "affa",
+      "id": "5c3a",
+      "title": "TEXAS HOLD 'EM"
+    },
+    {
+      "id": "61d9",
       "title": "BODYGUARD"
     },
     {
-      "id": "b65e",
+      "id": "4e9f",
       "title": "DOLLY P"
     },
     {
-      "id": "7f1a",
+      "id": "db01",
       "title": "JOLENE"
     },
     {
-      "id": "6436",
+      "id": "26eb",
       "title": "DAUGHTER"
     },
     {
-      "id": "c496",
+      "id": "387a",
       "title": "SPAGHETTII"
     },
     {
-      "id": "765b",
+      "id": "ced1",
+      "title": "ALLIIGATOR TEARS"
+    },
+    {
+      "id": "0fb8",
       "title": "SMOKE HOUR II"
     },
     {
-      "id": "1119",
+      "id": "4ee2",
       "title": "JUST FOR FUN"
     },
     {
-      "id": "02c4",
+      "id": "2f4a",
       "title": "II MOST WANTED"
     },
     {
-      "id": "bbeb",
+      "id": "fa13",
       "title": "LEVII'S JEANS"
     },
     {
-      "id": "2da3",
+      "id": "7336",
       "title": "FLAMENCO"
     },
     {
-      "id": "b53d",
+      "id": "f8f0",
       "title": "THE LINDA MARTELL SHOW"
     },
     {
-      "id": "8c82",
+      "id": "3d04",
       "title": "YA YA"
     },
     {
-      "id": "fbb0",
+      "id": "12e2",
       "title": "OH LOUISIANA"
     },
     {
-      "id": "bff9",
+      "id": "7a6a",
+      "title": "DESERT EAGLE"
+    },
+    {
+      "id": "1aa3",
       "title": "RIIVERDANCE"
     },
     {
-      "id": "db42",
+      "id": "4af4",
       "title": "II HANDS II HEAVEN"
     },
     {
-      "id": "90f8",
+      "id": "3974",
       "title": "TYRANT"
     },
     {
-      "id": "6223",
-      "title": "É O Henry"
+      "id": "961f",
+      "title": "Maliciosa (Ao Vivo)"
     },
     {
-      "id": "4d2f",
-      "title": "B.O Pro Coração"
+      "id": "373b",
+      "title": "Você Não Sabe o Que é Amor (Ao Vivo)"
     },
     {
-      "id": "24af",
-      "title": "Maluca"
+      "id": "3a31",
+      "title": "Pique Djavan (Ao Vivo)"
     },
     {
-      "id": "df2b",
-      "title": "Porra De Love"
+      "id": "32fc",
+      "title": "Destilado (Ao Vivo)"
     },
     {
-      "id": "aefd",
-      "title": "Colchão Minado"
+      "id": "94f6",
+      "title": "Se Não Chorar com Pagode (Ao Vivo)"
     },
     {
-      "id": "7afc",
-      "title": "Quem Ama De Verdade Não Trai"
+      "id": "4e78",
+      "title": "1% (Ao Vivo)"
     },
     {
-      "id": "a576",
-      "title": "Eu Vou Te Levar pro Céu"
+      "id": "9c6c",
+      "title": "A Preta Venceu (Ao Vivo)"
     },
     {
-      "id": "fefb",
-      "title": "No Baile do Serrão"
+      "id": "8347",
+      "title": "Falta de Mim (Ao Vivo)"
     },
     {
-      "id": "a7b8",
-      "title": "Set das Onça"
+      "id": "9e50",
+      "title": "Saudade da Gente (Ao Vivo)"
     },
     {
-      "id": "1bfc",
-      "title": "Minha Cara Metade"
+      "id": "a972",
+      "title": "Diz pra Mim / Preciso Desabafar (Ao Vivo)"
     },
     {
-      "id": "2ee2",
-      "title": "Evoluiu"
+      "id": "a18d",
+      "title": "26 de Dezembro (Ao Vivo)"
     },
     {
-      "id": "4b23",
-      "title": "Toma Cuidado pra Não Se Apegar"
+      "id": "3157",
+      "title": "Era Tão Bom (So Sick) (Ao Vivo)"
     },
     {
-      "id": "7987",
-      "title": "A Melhor Coisa da Vida"
+      "id": "3de5",
+      "title": "Sim ou Não (Ao Vivo)"
     },
     {
-      "id": "411d",
-      "title": "Fiel à Cachorrada"
+      "id": "f21a",
+      "title": "Raio X (Ao Vivo)"
     },
     {
-      "id": "752e",
-      "title": "Sentadinha Matinal"
+      "id": "4223",
+      "title": "Clichê / Cedo ou Tarde (Ao Vivo)"
     },
     {
-      "id": "b568",
-      "title": "Nananinanão"
+      "id": "d42a",
+      "title": "Ela (Ao Vivo)"
     },
     {
-      "id": "3c27",
-      "title": "Rua do Ouro"
-    },
-    {
-      "id": "9ad6",
-      "title": "Atrás do Sonho"
-    },
-    {
-      "id": "3d96",
-      "title": "Empurra"
-    },
-    {
-      "id": "df20",
-      "title": "Sozinho"
-    },
-    {
-      "id": "1e5c",
-      "title": "tipo, sonho de consumo!"
-    },
-    {
-      "id": "73c4",
+      "id": "e8e9",
       "title": "total 90!"
     },
     {
-      "id": "80df",
+      "id": "cb84",
       "title": "brinks!"
     },
     {
-      "id": "d58d",
+      "id": "f9bb",
       "title": "um quebrada inteligente!"
     },
     {
-      "id": "1d1b",
-      "title": "tipo, fila indiana!"
-    },
-    {
-      "id": "ebc4",
+      "id": "89d2",
       "title": "gucci con tacchini!"
     },
     {
-      "id": "dde4",
+      "id": "22f9",
       "title": "Fantástico Mundo da Oakley (Bonus Track)"
     },
     {
-      "id": "6906",
+      "id": "9446",
+      "title": "Piña Colada"
+    },
+    {
+      "id": "ab6e",
+      "title": "Sexto Sentido (feat. Bad Bunny)"
+    },
+    {
+      "id": "726f",
       "title": "Idiota"
     },
     {
-      "id": "836f",
+      "id": "be79",
       "title": "Pede Pra Eu Ficar (Listen To Your Heart)"
     },
     {
-      "id": "9231",
+      "id": "477d",
       "title": "Rubi"
     },
     {
-      "id": "2512",
+      "id": "1f00",
       "title": "São Amores"
     },
     {
-      "id": "9db1",
+      "id": "03c4",
       "title": "Me Usa"
     },
     {
-      "id": "faae",
+      "id": "500c",
       "title": "Não Vou Te Deixar (I Don't Want to Get Hurt)"
     },
     {
-      "id": "cbd4",
+      "id": "c60e",
       "title": "Hoje A Noite (Alone)"
     },
     {
-      "id": "946d",
+      "id": "e48d",
       "title": "Falta Coragem"
     },
     {
-      "id": "2d66",
+      "id": "3e5b",
+      "title": "Ai Que Calor"
+    },
+    {
+      "id": "3979",
       "title": "Nas Ondas do Rádio"
     },
     {
-      "id": "b4ef",
+      "id": "6bef",
       "title": "Ai Ai Ai Mega Príncipe"
     },
     {
-      "id": "5985",
+      "id": "f194",
       "title": "Não Desligue o Telefone"
     },
     {
-      "id": "6911",
+      "id": "dd50",
       "title": "Planeta de Cores (Ascolta Il Tuo Cuore)"
     }
   ]

@@ -31,6 +31,7 @@ class ApiService {
         if (responseDetails.statusCode == 200) {
           final dataDetails = jsonDecode(responseDetails.body);
           final tracks = List<String>.from(dataDetails['tracks']['data'].map((track) => track['title']));
+          print('Músicas extraídas: $tracks');  // Adicionar log para verificar extração de músicas
           return {
             'name': dataDetails['title'],
             'artist': dataDetails['artist']['name'],
@@ -62,7 +63,7 @@ class ApiService {
           'artist': albumData['artist'],
           'cover': albumData['cover'],
           'year': albumData['year'],
-          'tracks': albumData['tracks'],
+          'tracks': albumData['tracks'],  // Corrigido para usar 'tracks'
         }),
       );
 

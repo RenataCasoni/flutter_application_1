@@ -33,6 +33,7 @@ class _DashboardScreenState extends State<DashboardScreen> {
             ...album,
             'tracks': List<String>.from(album['tracks'] ?? []),  // Garante que tracks é uma lista de strings
           }).toList();
+          print('Álbuns carregados na Dashboard: $albums'); // Adiciona log para depuração
         });
       } else {
         print('Erro ao carregar álbuns: ${response.statusCode}');
