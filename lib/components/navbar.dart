@@ -4,7 +4,7 @@ class Navbar extends StatelessWidget implements PreferredSizeWidget {
   @override
   Widget build(BuildContext context) {
     return AppBar(
-      title: Text('Album Music App'),
+      title: Text('Lira Music'),
       actions: [
         IconButton(
           icon: Icon(Icons.home),

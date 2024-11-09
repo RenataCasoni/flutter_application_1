@@ -5,12 +5,13 @@ class ApiService {
   static const String baseUrl = 'http://localhost:3000';
   static const String corsProxy = 'https://cors-anywhere.herokuapp.com/';
 
-  static Future<Map<String, dynamic>> fetchAlbumFromDeezer(String albumName) async {
+  static Future<Map<String, dynamic>> fetchAlbumFromDeezer(String albumName, {http.Client? client}) async {
+    client ??= http.Client();
     final encodedAlbumName = Uri.encodeQueryComponent(albumName);
     final searchUrl = 'https://api.deezer.com/search/album?q=$encodedAlbumName';
 
     try {
-      final responseSearch = await http.get(Uri.parse('$corsProxy$searchUrl'));
+      final responseSearch = await client.get(Uri.parse('$corsProxy$searchUrl'));
       print('Status da resposta da busca: ${responseSearch.statusCode}');
       print('Corpo da resposta da busca: ${responseSearch.body}');
 
@@ -24,7 +25,7 @@ class ApiService {
         final albumId = album['id'];
 
         final albumDetailsUrl = 'https://api.deezer.com/album/$albumId';
-        final responseDetails = await http.get(Uri.parse('$corsProxy$albumDetailsUrl'));
+        final responseDetails = await client.get(Uri.parse('$corsProxy$albumDetailsUrl'));
         print('Status da resposta dos detalhes: ${responseDetails.statusCode}');
         print('Corpo da resposta dos detalhes: ${responseDetails.body}');
 
@@ -51,11 +52,12 @@ class ApiService {
     }
   }
 
-  static Future<void> addAlbum(Map<String, dynamic> albumData) async {
+  static Future<void> addAlbum(Map<String, dynamic> albumData, {http.Client? client}) async {
+    client ??= http.Client();
     final albumUrl = '$baseUrl/albums';
 
     try {
-      final response = await http.post(
+      final response = await client.post(
         Uri.parse(albumUrl),
         headers: {'Content-Type': 'application/json'},
         body: jsonEncode({
@@ -76,12 +78,13 @@ class ApiService {
     }
   }
 
-  static Future<void> addSongs(List<String> trackList) async {
+  static Future<void> addSongs(List<String> trackList, {http.Client? client}) async {
+    client ??= http.Client();
     final songsUrl = '$baseUrl/songs';
 
     try {
       for (var track in trackList) {
-        final response = await http.post(
+        final response = await client.post(
           Uri.parse(songsUrl),
           headers: {'Content-Type': 'application/json'},
           body: jsonEncode({'title': track}),
