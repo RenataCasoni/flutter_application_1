@@ -9,7 +9,7 @@ class MockClient extends Mock implements http.Client {}
 
 void main() {
   group('ApiService', () {
-    late MockClient client; // Use `late` para indicar que será inicializada no método `setUp`
+    late MockClient client;
 
     setUp(() {
       client = MockClient();

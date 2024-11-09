@@ -119,6 +119,23 @@
         "Não Desligue o Telefone",
         "Planeta de Cores (Ascolta Il Tuo Cuore)"
       ]
+    },
+    {
+      "id": "013b",
+      "name": "44",
+      "artist": "Mc Luanna",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/ef7d6a00c69848b0f56685d87c353190/500x500-000000-80-0-0.jpg",
+      "year": "2022",
+      "tracks": [
+        "Íntimo",
+        "Rotina",
+        "Direito de Voz",
+        "44",
+        "Maldita",
+        "Atacante",
+        "Rude",
+        "Surtada"
+      ]
     }
   ],
   "songs": [
@@ -357,6 +374,38 @@
     {
       "id": "dd50",
       "title": "Planeta de Cores (Ascolta Il Tuo Cuore)"
+    },
+    {
+      "id": "47b6",
+      "title": "Íntimo"
+    },
+    {
+      "id": "19ca",
+      "title": "Rotina"
+    },
+    {
+      "id": "d6fe",
+      "title": "Direito de Voz"
+    },
+    {
+      "id": "538e",
+      "title": "44"
+    },
+    {
+      "id": "5525",
+      "title": "Maldita"
+    },
+    {
+      "id": "5b87",
+      "title": "Atacante"
+    },
+    {
+      "id": "ab71",
+      "title": "Rude"
+    },
+    {
+      "id": "f19d",
+      "title": "Surtada"
     }
   ]
 }
