@@ -1,0 +1,244 @@
+{
+  "albums": [
+    {
+      "id": "9d8c",
+      "name": "Numanice #3 (Ao Vivo)",
+      "artist": "LUDMILLA",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/cda49ff0e8f8d8d612d1865f735542d6/500x500-000000-80-0-0.jpg",
+      "year": "2024"
+    },
+    {
+      "id": "21a5",
+      "name": "COWBOY CARTER",
+      "artist": "Beyoncé",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/e4a77ce7d6781682afb716d21c0a6e3b/500x500-000000-80-0-0.jpg",
+      "year": "2024"
+    },
+    {
+      "id": "93a2",
+      "name": "Sexto Sentido (feat. Bad Bunny)",
+      "artist": "Gigolo Y La Exce",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/e45f2fab36a16fc7a8de4003086f3ffe/500x500-000000-80-0-0.jpg",
+      "year": "2017"
+    },
+    {
+      "id": "ba31",
+      "name": "Terapia 1000%",
+      "artist": "Henry Freitas",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/1e5a21392df2399400ee68b182831730/500x500-000000-80-0-0.jpg",
+      "year": "2023"
+    },
+    {
+      "id": "9ddd",
+      "name": "Baile da Dona Onça",
+      "artist": "Mac Júlia",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/fe6a2bddbf0506cb3917956efd3c4ced/500x500-000000-80-0-0.jpg",
+      "year": "2024"
+    },
+    {
+      "id": "c8ac",
+      "name": "UM Quebrada Inteligente",
+      "artist": "Kyan",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/9be822d02bf460a3c94f8340db1604f1/500x500-000000-80-0-0.jpg",
+      "year": "2023"
+    }
+  ],
+  "songs": [
+    {
+      "id": "b644",
+      "title": "AMERIICAN REQUIEM"
+    },
+    {
+      "id": "05d8",
+      "title": "BLACKBIIRD"
+    },
+    {
+      "id": "fbc1",
+      "title": "16 CARRIAGES"
+    },
+    {
+      "id": "4adb",
+      "title": "PROTECTOR"
+    },
+    {
+      "id": "51da",
+      "title": "MY ROSE"
+    },
+    {
+      "id": "36f4",
+      "title": "SMOKE HOUR ★ WILLIE NELSON"
+    },
+    {
+      "id": "affa",
+      "title": "BODYGUARD"
+    },
+    {
+      "id": "b65e",
+      "title": "DOLLY P"
+    },
+    {
+      "id": "7f1a",
+      "title": "JOLENE"
+    },
+    {
+      "id": "6436",
+      "title": "DAUGHTER"
+    },
+    {
+      "id": "c496",
+      "title": "SPAGHETTII"
+    },
+    {
+      "id": "765b",
+      "title": "SMOKE HOUR II"
+    },
+    {
+      "id": "1119",
+      "title": "JUST FOR FUN"
+    },
+    {
+      "id": "02c4",
+      "title": "II MOST WANTED"
+    },
+    {
+      "id": "bbeb",
+      "title": "LEVII'S JEANS"
+    },
+    {
+      "id": "2da3",
+      "title": "FLAMENCO"
+    },
+    {
+      "id": "b53d",
+      "title": "THE LINDA MARTELL SHOW"
+    },
+    {
+      "id": "8c82",
+      "title": "YA YA"
+    },
+    {
+      "id": "fbb0",
+      "title": "OH LOUISIANA"
+    },
+    {
+      "id": "bff9",
+      "title": "RIIVERDANCE"
+    },
+    {
+      "id": "db42",
+      "title": "II HANDS II HEAVEN"
+    },
+    {
+      "id": "90f8",
+      "title": "TYRANT"
+    },
+    {
+      "id": "6223",
+      "title": "É O Henry"
+    },
+    {
+      "id": "4d2f",
+      "title": "B.O Pro Coração"
+    },
+    {
+      "id": "24af",
+      "title": "Maluca"
+    },
+    {
+      "id": "df2b",
+      "title": "Porra De Love"
+    },
+    {
+      "id": "aefd",
+      "title": "Colchão Minado"
+    },
+    {
+      "id": "7afc",
+      "title": "Quem Ama De Verdade Não Trai"
+    },
+    {
+      "id": "a576",
+      "title": "Eu Vou Te Levar pro Céu"
+    },
+    {
+      "id": "fefb",
+      "title": "No Baile do Serrão"
+    },
+    {
+      "id": "a7b8",
+      "title": "Set das Onça"
+    },
+    {
+      "id": "1bfc",
+      "title": "Minha Cara Metade"
+    },
+    {
+      "id": "2ee2",
+      "title": "Evoluiu"
+    },
+    {
+      "id": "4b23",
+      "title": "Toma Cuidado pra Não Se Apegar"
+    },
+    {
+      "id": "7987",
+      "title": "A Melhor Coisa da Vida"
+    },
+    {
+      "id": "411d",
+      "title": "Fiel à Cachorrada"
+    },
+    {
+      "id": "752e",
+      "title": "Sentadinha Matinal"
+    },
+    {
+      "id": "b568",
+      "title": "Nananinanão"
+    },
+    {
+      "id": "3c27",
+      "title": "Rua do Ouro"
+    },
+    {
+      "id": "9ad6",
+      "title": "Atrás do Sonho"
+    },
+    {
+      "id": "3d96",
+      "title": "Empurra"
+    },
+    {
+      "id": "df20",
+      "title": "Sozinho"
+    },
+    {
+      "id": "1e5c",
+      "title": "tipo, sonho de consumo!"
+    },
+    {
+      "id": "73c4",
+      "title": "total 90!"
+    },
+    {
+      "id": "80df",
+      "title": "brinks!"
+    },
+    {
+      "id": "d58d",
+      "title": "um quebrada inteligente!"
+    },
+    {
+      "id": "1d1b",
+      "title": "tipo, fila indiana!"
+    },
+    {
+      "id": "ebc4",
+      "title": "gucci con tacchini!"
+    },
+    {
+      "id": "dde4",
+      "title": "Fantástico Mundo da Oakley (Bonus Track)"
+    }
+  ]
+}
