@@ -3,7 +3,7 @@ import 'package:http/http.dart' as http;
 
 class ApiService {
   static const String baseUrl = 'http://localhost:3000';
-  static const String corsProxy = 'https://cors-anywhere.herokuapp.com/'; // Use o proxy CORS
+  static const String corsProxy = 'https://cors-anywhere.herokuapp.com/';
 
   static Future<Map<String, dynamic>> fetchAlbumFromDeezer(String albumName) async {
     final encodedAlbumName = Uri.encodeQueryComponent(albumName);
@@ -30,7 +30,6 @@ class ApiService {
 
         if (responseDetails.statusCode == 200) {
           final dataDetails = jsonDecode(responseDetails.body);
-          // Converta a lista de tracks para List<String>
           final tracks = List<String>.from(dataDetails['tracks']['data'].map((track) => track['title']));
           return {
             'name': dataDetails['title'],
@@ -63,6 +62,7 @@ class ApiService {
           'artist': albumData['artist'],
           'cover': albumData['cover'],
           'year': albumData['year'],
+          'tracks': albumData['tracks'],
         }),
       );
 

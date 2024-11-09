@@ -4,7 +4,7 @@ class Album {
   final String artist;
   final String cover;
   final int year;
-
+  
   Album({
     required this.id,
     required this.name,

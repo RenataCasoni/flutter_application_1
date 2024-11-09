@@ -2,6 +2,7 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import '../service/api_service.dart';
+import 'album_details.dart';
 
 class DashboardScreen extends StatefulWidget {
   @override
@@ -26,8 +27,12 @@ class _DashboardScreenState extends State<DashboardScreen> {
       
       if (response.statusCode == 200 && response.body.isNotEmpty) {
         print('Álbuns carregados com sucesso');
+        final List<dynamic> albumList = json.decode(response.body);
         setState(() {
-          albums = List<Map<String, dynamic>>.from(json.decode(response.body));
+          albums = albumList.cast<Map<String, dynamic>>().map((album) => {
+            ...album,
+            'tracks': List<String>.from(album['tracks'] ?? []),  // Garante que tracks é uma lista de strings
+          }).toList();
         });
       } else {
         print('Erro ao carregar álbuns: ${response.statusCode}');
@@ -59,6 +64,14 @@ class _DashboardScreenState extends State<DashboardScreen> {
                       title: Text(album['name']),
                       subtitle: Text('Artista: ${album['artist']}'),
                       trailing: Text('Ano: ${album['year']}'),
+                      onTap: () {
+                        Navigator.push(
+                          context,
+                          MaterialPageRoute(
+                            builder: (context) => AlbumDetailsPage(album: album),
+                          ),
+                        );
+                      },
                     ),
                   );
                 },

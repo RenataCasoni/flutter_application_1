@@ -41,6 +41,13 @@
       "artist": "Kyan",
       "cover": "https://e-cdns-images.dzcdn.net/images/cover/9be822d02bf460a3c94f8340db1604f1/500x500-000000-80-0-0.jpg",
       "year": "2023"
+    },
+    {
+      "id": "1a5f",
+      "name": "Batidão Tropical Vol. 2",
+      "artist": "Pabllo Vittar",
+      "cover": "https://e-cdns-images.dzcdn.net/images/cover/2a61b41154e741c71ebfcbb148902a4d/500x500-000000-80-0-0.jpg",
+      "year": "2024"
     }
   ],
   "songs": [
@@ -239,6 +246,54 @@
     {
       "id": "dde4",
       "title": "Fantástico Mundo da Oakley (Bonus Track)"
+    },
+    {
+      "id": "6906",
+      "title": "Idiota"
+    },
+    {
+      "id": "836f",
+      "title": "Pede Pra Eu Ficar (Listen To Your Heart)"
+    },
+    {
+      "id": "9231",
+      "title": "Rubi"
+    },
+    {
+      "id": "2512",
+      "title": "São Amores"
+    },
+    {
+      "id": "9db1",
+      "title": "Me Usa"
+    },
+    {
+      "id": "faae",
+      "title": "Não Vou Te Deixar (I Don't Want to Get Hurt)"
+    },
+    {
+      "id": "cbd4",
+      "title": "Hoje A Noite (Alone)"
+    },
+    {
+      "id": "946d",
+      "title": "Falta Coragem"
+    },
+    {
+      "id": "2d66",
+      "title": "Nas Ondas do Rádio"
+    },
+    {
+      "id": "b4ef",
+      "title": "Ai Ai Ai Mega Príncipe"
+    },
+    {
+      "id": "5985",
+      "title": "Não Desligue o Telefone"
+    },
+    {
+      "id": "6911",
+      "title": "Planeta de Cores (Ascolta Il Tuo Cuore)"
     }
   ]
 }
