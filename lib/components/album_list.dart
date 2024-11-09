@@ -18,7 +18,7 @@ class AlbumList extends StatelessWidget {
               return AlbumCard(
                 album: album,
                 onTap: () {
-                  // Defina a ação ao clicar no álbum
+                 
                 },
               );
             },

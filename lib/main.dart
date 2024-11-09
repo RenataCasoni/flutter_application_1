@@ -15,11 +15,11 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: HomeScreen(), // Agora a HomeScreen é a tela inicial
+      home: HomeScreen(), 
       routes: {
-        '/home': (context) => HomeScreen(),  // Rota para a HomeScreen
-        '/addAlbum': (context) => AlbumForm(), // Rota para adicionar álbum
-        '/dashboard': (context) => DashboardScreen(), // Rota para o dashboard
+        '/home': (context) => HomeScreen(), 
+        '/addAlbum': (context) => AlbumForm(), 
+        '/dashboard': (context) => DashboardScreen(), 
       },
     );
   }

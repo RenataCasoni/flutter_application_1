@@ -22,10 +22,8 @@ class _AlbumFormState extends State<AlbumForm> {
       if (albumName.isNotEmpty) {
         final albumData = await ApiService.fetchAlbumFromDeezer(albumName);
 
-        // Adicionando o álbum no backend
         await ApiService.addAlbum(albumData);
 
-        // Adicionando as músicas no backend
         await ApiService.addSongs(albumData['tracks']);
 
         setState(() {

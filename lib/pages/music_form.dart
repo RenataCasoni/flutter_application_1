@@ -20,13 +20,13 @@ class _MusicFormState extends State<MusicForm> {
     try {
       final songTitle = _songController.text;
       if (songTitle.isNotEmpty) {
-        // A partir do título da música, buscamos o álbum correspondente
+        
         final albumData = await ApiService.fetchAlbumFromDeezer(songTitle);
 
-        // Adicionando o álbum no backend
+        
         await ApiService.addAlbum(albumData);
 
-        // Adicionando as músicas no backend (agora utilizando o método addSongs)
+        
         await ApiService.addSongs(albumData['tracks']);
 
         ScaffoldMessenger.of(context).showSnackBar(SnackBar(
